@@ -1,7 +1,7 @@
 # Java_song_player
 Command based application emphasizing object-oriented principles, file management, and Java Collections, allowing users to manipulate playlists, handle diverse song formats, and ensure smooth file operations through exception handling.
 
-1.	**Library**: this class contains the bulk of the logic for the app. It maintains an array list of songs, an array list of audiobooks, an array list of podcasts and an array list of playlists. These lists are initially empty. Some methods have been written for you. Fill in the code for the other methods based on the comments. See the video to help you print output in the correct format.
+1.	**Library**: this class contains the bulk of the logic for the app. It maintains an array list of songs, an array list of audiobooks, an array list of podcasts and an array list of playlists. These lists are initially empty.
 
 2.	**MyAudioUI**: This class has the main() method and the user interface (UI). Some UI skeleton code has been provided for you with some comments. In a while loop, a scanner reads a line of input from the user. The input lines contain words (Strings) which represent actions (e.g. songs, store, download etc). Some actions require parameters to be input by the user. The parameters may be strings or an integer. The code should prompt the user by printing out what parameter should be entered. See the video and look at the example code provided for you for action PLAYSONG in MyAudio.java. Fill in the code based on the comments for all the other actions. NOTE: do not change the user interface!! The TAs are marking 450 assignments and may read actions from a file as input to your program. 
 
